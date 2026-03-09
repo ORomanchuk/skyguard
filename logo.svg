@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="30" fill="#0f172a"></rect>
+  
+  <!-- radar circle -->
+  <circle cx="100" cy="100" r="60" stroke="#3b82f6" stroke-width="6" fill="none"></circle>
+
+  <!-- interceptor -->
+  <polygon points="100,30 115,100 100,85 85,100" fill="#22c55e"></polygon>
+
+  <!-- radar line -->
+  <line x1="100" y1="100" x2="160" y2="60" stroke="#3b82f6" stroke-width="4"></line>
+
+  <!-- target -->
+  <circle cx="160" cy="60" r="6" fill="#ef4444"></circle>
+</svg>
