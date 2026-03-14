@@ -1,5 +1,5 @@
 const UAV_TYPES = {
-"Sting": { c4: 450 },
+"Sting": { c4: 500 },
 "P1-SUN": { c4: 500 },
 "AS3-IR Merops": { autoWarhead: "КУФ-1,2" },
 "Shulika": { c4: 1200 },
